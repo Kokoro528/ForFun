@@ -24,3 +24,5 @@ var mySqrt = function(x) {
     
     return binarySearch(0, x);
 };
+
+console.log(mySqrt(5));
